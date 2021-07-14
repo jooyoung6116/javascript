@@ -43,7 +43,7 @@
 		bark();
 ----------------------------------------------------		
 		function bark() {
-			console.log(a);.log("멍멍");
+			console.log(a); log("멍멍");
 
 			return undefined; // 자동으로 추가가 된다
 		}

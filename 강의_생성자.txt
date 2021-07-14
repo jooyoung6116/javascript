@@ -6,7 +6,7 @@
 	
 		function 생성자명(.....) {
 			//생성자 정의
-			this.속성명 = 값;(원시타입, 객체, 함수 객체)
+			this.속성명 = 값;(원시타입,  객체, 함수 객체)
 		}
 	
 	객체 생성 연산자
@@ -69,5 +69,5 @@ const로 일단 정의 -> 변경이 필요한 변수 -> let
 	
 	}
 	
-	const person1 = new Preson(
+	const person1 = new Preson;
 		

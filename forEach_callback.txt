@@ -1,0 +1,6 @@
+forEach(callback){
+	// 배열 순회
+	const el = "각각의 배열 요소";
+	const i = "각각의 배열 요소의 인덱스";
+	callback(el, i);
+}
